@@ -1,0 +1,13 @@
+.content {
+    width: var(--content-width);
+    margin: 0 auto;
+    position: relative;
+    top: -100px;
+    padding: 40px 60px;
+    background: #fff
+}
+
+.content a {
+    color: var(--link-theme);
+    font-size: 1.2em;
+}
